@@ -15,3 +15,8 @@ vim ~/.zshrc
 # ZSH_THEME="robbyrussell"
 # plugins=(git z last-working-dir extract web-search osx rake rbenv ruby bundler dotenv)
 # unsetopt BG_NICE(如果报错，加上这一句)
+# git clone https://github.com/zsh-users/zsh-syntax-highlighting
+# git clone https://github.com/zsh-users/zsh-autosuggestions
+# git clone https://github.com/zsh-users/zsh-completions
+# git clone https://github.com/zsh-users/zsh-history-substring-search
+# source ~/oh-my-zsh/custom/plugins/-history-substring-search/zsh-history-substring-search.zsh
